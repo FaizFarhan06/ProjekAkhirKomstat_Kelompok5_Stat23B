@@ -15,7 +15,6 @@
 
 - `app.R` - kode utama aplikasi Shiny
 - `www/` - file media (logo, bg, audio)
-- `template_laporan.Rmd` - template laporan RMarkdown
 - `laporan/` - (opsional) hasil uji contoh
 - `README.md` - dokumentasi proyek
 
