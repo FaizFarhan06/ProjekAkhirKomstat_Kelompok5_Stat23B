@@ -24,8 +24,8 @@
 | Faiz Farhan | 1314623072 | Ketua, struktur UI & UI Dasar (Header, Sidebar, Background, Tabs) |
 | Faiz Hakim  | 1314623052 | Isi Tab UI (Beranda, Info, Upload, Visual, Hasil)         |
 | Yoseph Felix| 1314623068 | Server: Contoh Data, Upload Input, Visualisasi    |
-| Alip Pabian | 1314623051 | Server: Perhitungan Uji Statistik dan Output Keputusan |
-| Derry Azhar | 1314623070 | Download Word (Export Laporan) |
+| Derry Azhar | 1314623070 | Server: Perhitungan Uji Statistik dan Output Keputusan |
+| Alip Pabian | 1314623051 | Download Word (Export Laporan) |
 
 # Jalankan di RStudio
 shiny::runApp()
