@@ -8,7 +8,7 @@
 - Uji Median (Wilcoxon), Fisher, dan Chi-Square
 - Statistik deskriptif
 - Visualisasi data interaktif
-- Export laporan hasil uji (PDF & Word)
+- Export laporan hasil uji (Word)
 - Tampilan dark mode dan animasi intro
 
 ## 📁 Struktur Folder
